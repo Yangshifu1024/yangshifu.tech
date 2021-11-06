@@ -6,7 +6,6 @@ theme = 'hyde'
 
 [params]
     description = "全栈BUG制造者"
-    themeColor = "theme-base-08"
 
 [Menus]
     main = [
