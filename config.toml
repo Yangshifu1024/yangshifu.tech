@@ -1,0 +1,14 @@
+baseURL = 'https://yangshifu.tech'
+languageCode = 'zh-cn'
+title = '杨师傅'
+
+theme = 'hyde'
+
+[params]
+    description = "全栈BUG制造者"
+    themeColor = "theme-base-08"
+
+[Menus]
+    main = [
+        {Name = "Github", URL = "https://github.com/Yangshifu1024"}
+    ]
